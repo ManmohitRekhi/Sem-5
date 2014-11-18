@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CApp">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainWin">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAAAAAAAgAAAAEAAAAAAgQAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MainWin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyDialog">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAAAAIICBAAAkAAAAAEAABAIIQgAZAAAAAAAA=</HashCode>
+      <FileName>MyDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyRecordSet">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAEAQAQAAAAAAAAQAAAAABAIoAQAAAAA=</HashCode>
+      <FileName>MyRecordSet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSampleDialog">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GPwDAOEfDP7/APD/B4N/8A9EAAAAAAAAAAAAAAABwD8=</HashCode>
+      <FileName>SampleDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSaveGame" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAKAAIACAAAAACAAAEAAAABQAAAAAAAgAAA=</HashCode>
+      <FileName>SaveGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

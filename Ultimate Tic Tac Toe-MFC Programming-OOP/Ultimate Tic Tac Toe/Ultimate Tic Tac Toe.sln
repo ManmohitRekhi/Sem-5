@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ultimate Tic Tac Toe", "Ultimate Tic Tac Toe\Ultimate Tic Tac Toe.vcxproj", "{AAAB2688-1A74-420E-B41C-B1B47BFA8DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAB2688-1A74-420E-B41C-B1B47BFA8DB6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AAAB2688-1A74-420E-B41C-B1B47BFA8DB6}.Debug|Win32.Build.0 = Debug|Win32
+		{AAAB2688-1A74-420E-B41C-B1B47BFA8DB6}.Release|Win32.ActiveCfg = Release|Win32
+		{AAAB2688-1A74-420E-B41C-B1B47BFA8DB6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
